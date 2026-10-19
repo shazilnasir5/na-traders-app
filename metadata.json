@@ -1,0 +1,6 @@
+{
+  "name": "N.A Traders Ledger",
+  "description": "Professional mobile-first business management app with inventory, sales, invoicing, multi-account khata ledgers, and Urdu/English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
